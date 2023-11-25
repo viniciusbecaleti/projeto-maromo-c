@@ -1,0 +1,8 @@
+id: 23516
+nome: Doritos
+preco:  7
+quantidadeEstoque: 50
+id: 23598
+nome: Leite
+preco:  5
+quantidadeEstoque: 50

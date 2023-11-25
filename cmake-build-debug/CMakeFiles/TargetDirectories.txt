@@ -1,0 +1,3 @@
+C:/Users/Vinicius/Desktop/projeto-maromo/cmake-build-debug/CMakeFiles/projeto_maromo.dir
+C:/Users/Vinicius/Desktop/projeto-maromo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vinicius/Desktop/projeto-maromo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
